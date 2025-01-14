@@ -87,7 +87,7 @@ public class Main {
 	//que todo se ejecuta correctamente.
 	Combate combate = new Combate(campeon1,campeon2);
 	combate.iniciar();
-    
+    int a = 1;
 	}catch(Exception e) {
 		System.out.println("Error en la ejecución de la partida");
 	}
